@@ -1,0 +1,106 @@
+ body{
+  padding:0px;
+margin:0px;
+width:100%;
+height: 100%;
+  background-color:white;
+
+}
+.logo
+{
+  margin-left: -1px;
+}
+.search
+{
+  margin-top: 15px;
+  margin-right: -10%;
+}
+.search .search_btn
+{
+  color:#990099;
+}
+
+.search .search_btn:hover
+{
+  color:#990099;
+}
+
+.cart
+{
+  margin-top: 28px;
+  margin-right: -67%;
+
+}
+
+.cart .sh_cart
+{
+   color:#737373;
+   text-decoration: none;
+}
+
+.badge
+{
+  background-color: #990099;
+}
+
+
+ .mymenu .navbar-default
+  {
+    background:#737373;
+  }
+  .mymenu .navbar-nav .active a
+    {
+        background-color: #990099;
+        color: #fff;
+    }
+    .mymenu .navbar-nav .active a:hover
+    {
+        background-color: #990099;
+        color: #fff;
+    }
+    .mymenu .navbar-nav li a
+    {
+      color: #fff;
+      font-size: 18px;
+      
+    }
+    .mymenu .navbar-nav li a:hover
+    {
+       background-color: #990099;
+      color: #fff;
+       font-size: 18px;
+    }
+
+    .carousel-inner>.item>img, .img-responsive {
+    display: block;
+    max-width: 100%;
+    height: 400px; 
+      margin: auto;
+
+}
+
+#slider
+{
+  margin-top: -21px;
+  background-color:black;
+}
+
+.cat
+{
+   margin-top: 10%;
+}
+
+@media(max-width: 1200px)
+{
+  .serach
+  {
+    margin-right:0%;
+    margin-left: 0%;
+    margin-top: 1%;
+    background-color: red;
+  }
+  .body
+  {
+    background-color: red;
+  }
+}

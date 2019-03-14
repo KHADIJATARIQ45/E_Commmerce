@@ -1,0 +1,57 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+.jumbotron{
+	text-align: center;
+	background-image: url('../image/Hero-Image.jpg'); 
+	color: white;
+
+}
+.btn-lg{
+	font-size: 36px;
+
+}
+ul.nav,jumbotron h1{
+	font-size: 'arvo',courier,serif;
+}
+ul.nav{
+	font-size: 13px;
+}
+.jumbotron p{
+	margin-bottom: 35px;
+	font-weight: 100;
+}
+.emphasis
+{
+	color: red;
+}
+.homepage{
+	text-align: center;
+}
+.homepage h2{
+	color: red;
+	font-family: 'Arvo',courier,serif;
+	text-transform: uppercase;]
+	font-size: 30px;
+
+}
+.homepage h3{
+	color: red;
+text-transform: uppercase;
+font-family: 'Arvo',courier,serif;
+font-size: 26px;
+}
+.homepage p{
+	font-weight: 300px;
+}
+.homepage a{
+	color: red;
+	text-decoration: none;
+}
+.homepage hr{
+	border-color: red;
+	width: 160px;
+	margin-top: 15px;
+	}

@@ -1,0 +1,16 @@
+ .navbar-default
+  {
+    background:none;
+    border: none;
+    color:black;
+    font-weight: bold;
+  }
+  .nav .active a,
+    .nav .active a:hover{
+      background-color: #990099;
+      color: #fff;
+    }
+    .nav li a:hover
+    {
+       color: red;
+    }
